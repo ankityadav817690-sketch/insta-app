@@ -1,0 +1,5 @@
+node_modules/
+insta.db
+insta.db-shm
+insta.db-wal
+uploads/
